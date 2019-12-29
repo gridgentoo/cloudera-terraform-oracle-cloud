@@ -1,6 +1,6 @@
 # oci-cloudera
 
-hazelcast-terraform-oracle-cloud  
+(cloudera-terraform-oracle-cloud) deploy Cloudera on Oracle Cloud Infrastructure  
 https://docs.google.com/spreadsheets/d/1RbTIA_83ZvYVCA9q7ybimA5zBD6a6jJ3Q5nRlpHB2WI/  
 
 This is a Terraform module that deploys [Cloudera Enterprise Data Hub](https://www.cloudera.com/products/enterprise-data-hub.html) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure).  It is developed jointly by Oracle and Cloudera.
