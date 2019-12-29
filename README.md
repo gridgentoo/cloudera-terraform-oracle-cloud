@@ -1,4 +1,8 @@
 # oci-cloudera
+
+cloudera-terraform-oracle-cloud  
+https://docs.google.com/spreadsheets/d/1F5fqGbsQDrQjZVB2E1dk-zr5OUj-Mb6P55F_kL02pZE/edit?folder=0AGzfMaGH7wbJUk9PVA#gid=653366661  
+
 This is a Terraform module that deploys [Cloudera Enterprise Data Hub](https://www.cloudera.com/products/enterprise-data-hub.html) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure).  It is developed jointly by Oracle and Cloudera.
 
 ## Deployment Information
